@@ -21,3 +21,4 @@ Running Instructions
 (Activate your tensorflow environment)
 python main.py
 
+-Aditya Gulati (ES15BTECH11003) and Abhinav Gupta (ES15BTECH11002)
