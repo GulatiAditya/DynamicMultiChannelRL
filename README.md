@@ -4,10 +4,10 @@
 
 This repository contains the final submission for the Project done for the course EE5611: Machine Learning for Wireless Networks at IIT Hyderabad.
 
-This work is an implementation of the paper:
+This work is an implementation of the [paper](https://ieeexplore.ieee.org/document/8303773):
 
 ```
-Shangxing Wang , Hanpeng Liu, Pedro Henrique Gomes, and Bhaskar Krishnamachari, “Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks” IEEE TRANSACTIONS ON COGNITIVE COMMUNICATIONS AND NETWORKING, VOL. 4, NO. 2, JUNE 2018
+[Shangxing Wang , Hanpeng Liu, Pedro Henrique Gomes, and Bhaskar Krishnamachari, “Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks” IEEE TRANSACTIONS ON COGNITIVE COMMUNICATIONS AND NETWORKING, VOL. 4, NO. 2, JUNE 2018] (https://ieeexplore.ieee.org/document/8303773)
 ```
 
 ## Dependencies
